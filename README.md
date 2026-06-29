@@ -1,6 +1,5 @@
 # STM32WL-LoRa-Bare-Metal
 Stage d'été 2025 - Implémentation bare-metal d'une chaîne LoRa complète, du VNA au cloud HiveMQ
-# STM32WL LoRa - Du VNA au Cloud
 
 Ce dépôt contient l'ensemble des travaux réalisés lors du stage d'été.
 Le projet propose une approche "bottom-up" de l'écosystème LoRa, de l'antenne jusqu'au dashboard cloud.
