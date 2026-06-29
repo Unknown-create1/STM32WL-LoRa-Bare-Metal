@@ -17,5 +17,6 @@ Le projet propose une approche "bottom-up" de l'écosystème LoRa, de l'antenne 
 ## Livrables
 - [ ] Rapport de caractérisation RF (S11, SWR)
 - [ ] Rapport d'analyse du spectre (RSSI, SNR, Sensibilité)
+- [ ] Code C fonctionnel avec ST HAL
 - [ ] Code C bare-metal fonctionnel (sans ST HAL)
 - [ ] Dashboard de visualisation temps réel
